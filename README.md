@@ -29,17 +29,19 @@ Everything in this repo shows the progression of my learning from the basics all
 Repo Structure
 
 I’ve organized the files by topic so it’s easy to follow:
-01_variables_and_data_types/
-02_lists_and_tuples/
-03_dictionaries/
-04_user_input_and_loops/
-05_functions/
-06_classes_and_oop/
-07_files_and_exceptions/
-08_projects_and_exercises/
-README.md
+* 01_variables_and_data_types/
+* 02_lists_and_tuples/
+* 03_dictionaries/
+* 04_user_input_and_loops/
+* 05_functions/
+* 06_classes_and_oop/
+* 07_files_and_exceptions/
+* 08_projects_and_exercises/
+* README.md
+
 Each folder contains practice files and exercises I worked on as I went through each part of the course.
-Why I Made This
+
+# Why I Made This
 
 This repo is mainly for me to look back on what I’ve learned, but also to show potential employers what I’ve done and how far I’ve come. It’s been a challenging but really rewarding experience, and I’m excited to keep building on these skills in real-world projects.
 
